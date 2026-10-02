@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite the Lo-Ran paper and acknowledge the upstream LoRaPHY implementation."
+type: software
+title: "Lo-Ran: Demystifying and Reconstructing the LoRa 2.4 GHz Ranging Engine"
+authors:
+  - family-names: Lin
+    given-names: Yukai
+  - family-names: Gu
+    given-names: Chaojie
+  - family-names: Song
+    given-names: Yin
+  - family-names: He
+    given-names: Shibo
+  - family-names: Chen
+    given-names: Jiming
+preferred-citation:
+  type: article
+  title: "Lo-Ran: Demystifying and Reconstructing the LoRa 2.4 GHz Ranging Engine"
+  authors:
+    - family-names: Lin
+      given-names: Yukai
+    - family-names: Gu
+      given-names: Chaojie
+    - family-names: Song
+      given-names: Yin
+    - family-names: He
+      given-names: Shibo
+    - family-names: Chen
+      given-names: Jiming
+  journal: "IEEE Transactions on Mobile Computing"
+  notes: "Accepted September 26, 2026; DOI, volume, and pages pending publication."
