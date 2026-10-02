@@ -1,0 +1,18 @@
+{
+  "upstream": "https://github.com/jkadbear/LoRaPHY",
+  "license": "MIT, Copyright (C) 2020-2022 jkadbear",
+  "upstream_commit": "Not available in the imported source snapshot",
+  "variant": "Ranging-only LoRanPHY adapts chirp generation and folded FFT from the local version-0.2.1 research snapshot. Unused full PHY classes are removed.",
+  "adapted_module": "matlab/src/LoRanPHY.m",
+  "original_source_hashes": {
+    "LoRaPHY.m": "dbf4142978cb8e086ec1f058da1d3d1aecff3ebe44fefbe6616e79daf133fd52",
+    "LoRaPHY2.m": "ab2ddd2fc53bafb215716b2dc3741b3098cc193ad8de94f26db861b7f728380f"
+  },
+  "files": [
+    {
+      "file": "matlab/third_party/LoRaPHY/LICENSE",
+      "source": "LICENSE",
+      "sha256": "fca397a32a553115cd159b70c56d9d864f2599968e8971e378842a5b2d065ed3"
+    }
+  ]
+}
